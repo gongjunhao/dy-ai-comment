@@ -9,7 +9,7 @@
 ## 2. 安装与授权
 
 ### 2.1 安装步骤
-1. 下载插件安装包
+1. 下载插件安装包  [下载地址](https://blog.soundjourney.top/archives/wei-ming-ming-wen-zhang)
 2. 打开Chrome浏览器，进入扩展程序管理页面（chrome://extensions/）
 3. 启用"开发者模式"
 4. 点击"加载已解压的扩展程序"，选择插件文件夹
@@ -92,7 +92,9 @@ AI回复模式支持以下四种AI模型：
 
 ### 6.2 输入API Key
 根据选择的AI模型，在API Key输入框中输入对应的密钥。
+
 API Key获取
+
 [DeepSeek](https://platform.deepseek.com/)
 
 [Kimi](https://platform.moonshot.cn/console/account)
