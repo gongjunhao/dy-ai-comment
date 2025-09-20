@@ -99,7 +99,7 @@ Kimi
 
 OpenAI (GPT)
 
-![Gemini](https://aistudio.google.com/app/apikey?hl=zh-cn)
+[Gemini](https://aistudio.google.com/app/apikey?hl=zh-cn)
 
 
 ### 6.3 设置AI提示词
