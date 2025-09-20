@@ -93,11 +93,11 @@ AI回复模式支持以下四种AI模型：
 ### 6.2 输入API Key
 根据选择的AI模型，在API Key输入框中输入对应的密钥。
 API Key获取
-DeepSeek
+[DeepSeek](https://platform.deepseek.com/)
 
-Kimi
+[Kimi](https://platform.moonshot.cn/console/account)
 
-OpenAI (GPT)
+[OpenAI (GPT)](https://platform.openai.com/api-keys)
 
 [Gemini](https://aistudio.google.com/app/apikey?hl=zh-cn)
 
