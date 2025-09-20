@@ -92,6 +92,15 @@ AI回复模式支持以下四种AI模型：
 
 ### 6.2 输入API Key
 根据选择的AI模型，在API Key输入框中输入对应的密钥。
+API Key获取
+DeepSeek
+
+Kimi
+
+OpenAI (GPT)
+
+![Gemini](https://aistudio.google.com/app/apikey?hl=zh-cn)
+
 
 ### 6.3 设置AI提示词
 在提示词文本框中输入指导AI生成回复的提示词，例如：
