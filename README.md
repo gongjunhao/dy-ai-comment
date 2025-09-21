@@ -4,12 +4,10 @@
 
 抖音自动评论助手是一款Chrome浏览器扩展程序，能够自动搜索抖音视频并进行评论。支持多种评论模式，包括表情回复、文本回复和AI智能回复，帮助用户提高在抖音平台的互动效率。
 
-<img src="images/douyin-ai-comment-pic.png" alt="插件宣传图" width="400"/>
-
 ## 2. 安装与授权
 
 ### 2.1 安装步骤
-1. 下载插件安装包  [下载地址](https://blog.soundjourney.top/archives/wei-ming-ming-wen-zhang)
+1. 下载插件安装包
 2. 打开Chrome浏览器，进入扩展程序管理页面（chrome://extensions/）
 3. 启用"开发者模式"
 4. 点击"加载已解压的扩展程序"，选择插件文件夹
