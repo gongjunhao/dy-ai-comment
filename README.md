@@ -7,7 +7,7 @@
 ## 2. 安装与授权
 
 ### 2.1 安装步骤
-1. 下载插件安装包 [app.zip](https://blog.soundjourney.top/upload/app.zip)
+1. 下载插件安装包 [app.zip](https://www.devstorex.top/account/downloads)
 2. 打开Chrome浏览器，进入扩展程序管理页面（chrome://extensions/）
 3. 启用"开发者模式"
 4. 点击"加载已解压的扩展程序"，选择插件文件夹
